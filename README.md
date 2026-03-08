@@ -209,7 +209,7 @@ images/result_plot.png
 
 ## ⭐ Author
 
-Anshul Yadav
-B.Tech Electrical & Electronics Engineering
-University Institute of Technology, RGPV
+Anshul Yadav<br>
+B.Tech Electrical & Electronics Engineering<br>
+University Institute of Technology, RGPV<br>
 Final Year Major Project
