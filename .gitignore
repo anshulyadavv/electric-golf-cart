@@ -1,0 +1,27 @@
+# MATLAB autosave
+*.asv
+*.autosave
+
+# Simulink cache
+slprj/
+*.slxc
+
+# MATLAB build files
+*.mex*
+*.m~
+*.p
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB preferences
+prefdir/
+
+# Results / cache
+cache/
+temp/
